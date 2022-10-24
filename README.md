@@ -3,9 +3,6 @@ This web project done in html,css ,js and it provides dynamic weather data like 
 
 This web project done in html,css ,js.
 
-Web link
-https://sachinprajapati8604.github.io/Weather_webApp/
-
 netlify link
 https://spweather.netlify.app/
 
