@@ -18,6 +18,4 @@ Features of the project.
 . it will give you alert if city name not matched with api data.
 . a good ux/ui
 
-Snapshot
-. Default
 
